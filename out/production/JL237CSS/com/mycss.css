@@ -1,0 +1,9 @@
+.root{
+    -fx-font-size: 40;
+}
+.button{-fx-font-size: 10;}
+.button > .label{}
+.button > .hover{}
+.label{}
+#my-button{-fx-font-size: 60;}
+.mystyle{}
